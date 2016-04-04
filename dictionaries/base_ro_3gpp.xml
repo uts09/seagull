@@ -428,7 +428,7 @@
         <setfield name="avp-code" value="423"></setfield>
         <setfield name="flags" value="64"></setfield>
       </define>
-      <define name="Subscription-Id " type="Grouped">
+      <define name="Subscription-Id" type="Grouped">
         <setfield name="avp-code" value="443"></setfield>
         <setfield name="flags" value="64"></setfield>
       </define>
